@@ -1,2 +1,2 @@
 # Testing Github
-![This is an image](Logo.svg)
+![This is an image](Logo.png)
